@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-title: Nikos Tsilivis
+name: Nikos Tsilivis
+markdown: kramdown
 description: welcome to my personal corner in the web :)
-social media:
-  twitter: NikosTs_
