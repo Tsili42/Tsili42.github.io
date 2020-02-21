@@ -1,3 +1,6 @@
 remote_theme: b2a3e8/jekyll-theme-console
 name: Nikos Tsilivis
-description: welcome to my personal corner in the web :)
+
+header_pages:
+    - index.md
+    - non-academia.md
