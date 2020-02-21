@@ -1,5 +1,5 @@
 ---
-title: Nikos Tsilivis
+title: about
 layout: home
 permalink: /
 ---
