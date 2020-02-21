@@ -1,5 +1,6 @@
 ---
 title: non-academia
+layout: default
 permalink: /non-academia
 ---
 
@@ -13,4 +14,4 @@ I enjoy playing it. Camus once said: “After many years in which the world has 
 
 ## Photography
 
-I try to produce good ones. I love DeCarava's fine art photography. Explore his artwork today.
+I try to produce interesting ones. I love DeCarava's fine art photography. Explore his artwork today.
