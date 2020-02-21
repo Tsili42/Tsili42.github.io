@@ -1,7 +1,7 @@
 ---
 title: /about
 layout: home
-permalink: /about
+permalink: /
 ---
 
 ## About me
