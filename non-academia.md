@@ -1,5 +1,5 @@
 ---
-title: /non-academia
+title: Non-academia
 permalink: /non-academia
 ---
 
