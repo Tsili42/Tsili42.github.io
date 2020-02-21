@@ -3,4 +3,5 @@ name: Nikos Tsilivis
 
 header_pages:
     - index.md
+    - blog.md
     - non-academia.md

@@ -1,6 +1,6 @@
 ---
 title: blog
-layout: home [//]: # (theme-convention)
+layout: home
 permalink: /blog
 ---
 
