@@ -9,10 +9,10 @@ The theorem immediately fascinated me, as it promised a long-wished-for tool ins
 Briefly, the proof of the theorem starts by computing a tree decomposition of the graph and then transforming that into a parse tree (namely, a tree of symbols from a specific alphabet) which encodes in a compact way the initial graph. The parse tree is then fed as input to a *Tree Automaton* (similar to a DFA, but its input must be a tree), which accepts if and only if the parse tree has the desired property. Since we promised the decidability of each property described in $\text{MS0}_2$, we rely on the graph-theoretic analog of Myhill-Nerode theorem for proving that a large class of automata recognizes the class of bounded-treewidth graphs.
 See more [here](https://github.com/Tsili42/courcelles_theorem/blob/master/Logic_II_Project.pdf) and if you feel you need more details (and happen to be able to read greek), see my project [report](https://github.com/Tsili42/courcelles_theorem/blob/master/report.pdf).
 
-### Existence of a Hamilton cycle in a graph expressed in $\text{MSO}_2$
+### Existence of a Hamilton cycle in a graph $G = (V, E)$ expressed in $\text{MSO}_2$
 
 $$\text{Hamiltonicity} \equiv \exists R \subseteq E (\text{conn}(R) \land \forall v \in V \text{deg2}(v, R)),$$
 
 where:
-* $\text{conn}(R) \equiv \forall Y \subseteq V [(\exists u \in V (u \in Y) \land  \exists v \in V (v \notin Y)) \Rightarrow (\exists e \in R, u \in Y, v \notin Y (\text{inc}(u,e) \land \text{inc}(u,e)))]$
-* deg2$(u, R) \equiv \exists e_1, e_2 \in R [(e_1 \neq e_2 \land \text{inc}(e_1,u) \land \text{inc}(e_2, u) \land (\forall e_3 \in R(\text{inc}(e_3,u) \Rightarrow (e_3=e_1 \lor e_3=e_2)))]$
+* $\text{conn}(R) \equiv \forall Y \subseteq V [(\exists u \in V (u \in Y) \land  \exists v \in V (v \notin Y)) \to (\exists e \in R, u \in Y, v \notin Y (\text{inc}(u,e) \land \text{inc}(u,e)))]$
+* $\text{deg2}(u, R) \equiv \exists e_1, e_2 \in R [(e_1 \neq e_2 \land \text{inc}(e_1,u) \land \text{inc}(e_2, u) \land (\forall e_3 \in R(\text{inc}(e_3,u) \to (e_3=e_1 \lor e_3=e_2)))]$

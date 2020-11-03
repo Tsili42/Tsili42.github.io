@@ -8,7 +8,7 @@ permalink: /non-academia
 
 I like watching them. My favorite directors are Ingmar Bergman, Woody Allen and Stanley Kubrick. If I find the time, I might add reviews about a few of them.
 
-![alt text](/media/persona21.jpg "Persona, Bergman")
+![alt text](/media/persona21.jpg = 100x100 "Persona, Bergman")
 
 ## Football
 
