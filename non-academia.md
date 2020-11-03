@@ -18,6 +18,6 @@ I enjoy playing it. I think it captures the joy of life. Camus once said: “Aft
 
 ## Photography
 
-I try to produce interesting ones. I absolutely adore the photographs of Henri Cartier-Bresson, Roy DeCarava and Elliot Erwitt. I am reluctant to share my work, since I am still an amateur, but if you insist you can find a few of my favorites [here](https://flic.kr/2pQbj9).
+I try to produce interesting ones. I absolutely adore the photographs of Henri Cartier-Bresson, Roy DeCarava and Elliot Erwitt. I am reluctant to share my work, since I am still an amateur, but if you insist you can find a few of my favorites [here](https://flic.kr/ps/2pQbj9).
 <br/>
-![alt text](/media/bresson_best_017.jpg "Bresson"){:height="40%" width="50%"}
+![alt text](/media/bresson_best_017.jpg "Bresson"){:height="25%" width="40%"}
