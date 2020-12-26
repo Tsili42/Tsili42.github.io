@@ -2,6 +2,7 @@
 title: blog
 layout: home
 permalink: /blog
+style: light
 ---
 
 ## Declaration of creation
