@@ -5,3 +5,6 @@ header_pages:
     - index.md
     - blog.md
     - non-academia.md
+style: light
+listen_for_clients_preferred_style: true
+google_analytics: jy5jBKTkVZvCrm9-qWWLpy361BAAO3grZPk-761L1y4
