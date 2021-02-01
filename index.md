@@ -12,5 +12,5 @@ Hi! My name is Nikos Tsilivis and I am from Athens, Greece. I did my undergradua
 
 ## new!
 
-- Our recent [work](/media/Tsilivis_ICASSP2021_SparseTropicalRegression_submit3.pdf) on how to fit piecewise-linear surfaces to convex functions with an, approximately, minimum number of affine regions.
+- Our recent [work](/media/Tsilivis_ICASSP2021_SparseTropicalRegression_submit3.pdf) on how to fit piecewise-linear surfaces to convex functions with an, approximately, minimum number of affine regions (to appear in [ICASSP2021](https://2021.ieeeicassp.org)).
 - Our recent [work](media/DGMM2021_SparseApproxMaxPlus_v5b.pdf) on sparse signal acquisition in max-plus algebra w/ an application to morphological neural nets pruning (to appear in [DGMM2021](https://www.dgmm2021.se)).
