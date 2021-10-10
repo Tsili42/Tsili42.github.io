@@ -19,5 +19,5 @@ Hi! My name is Nikos Tsilivis and I am from Athens, Greece. I did my undergradua
  <!DOCTYPE html>
 <meta charset="utf-8">
 <title>Redirecting to https://cims.nyu.edu/~nt2231/page.html</title>
-<meta http-equiv="refresh" content="0; URL=https://example.com/">
+<meta http-equiv="refresh" content="0; URL=https://cims.nyu.edu/~nt2231/page.html">
 <link rel="canonical" href="https://cims.nyu.edu/~nt2231/page.html">
