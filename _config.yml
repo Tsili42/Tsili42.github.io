@@ -1,9 +1,0 @@
-remote_theme: b2a3e8/jekyll-theme-console
-name: Nikos Tsilivis
-
-header_pages:
-    - index.md
-    - blog.md
-    - non-academia.md
-style: light
-google_analytics: jy5jBKTkVZvCrm9-qWWLpy361BAAO3grZPk-761L1y4
